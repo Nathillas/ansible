@@ -1,5 +1,7 @@
 # ANSIBLE
 
+![imagen1](img/portada.png)
+
 ## **1\. Nombre y descripción del módulo**
 
 **Nombre:** ansible.builtin.debug
@@ -18,7 +20,7 @@
 
 Este ejemplo imprime un mensaje durante la ejecución del playbook.
 
-![][image1]
+![ejemplo1](img/ejemplo1.png)
 
 ### **Ejemplo 2: Mostrar el valor de una variable**
 
@@ -30,7 +32,8 @@ Este ejemplo imprime un mensaje durante la ejecución del playbook.
 
 Este ejemplo muestra el valor de la variable `ansible_hostname`.
 
-![][image2]
+![ejemplo2](img/ejemplo2.png)
+
 
 ### **Ejemplo 3: Usar expresiones condicionales**
 
@@ -52,7 +55,7 @@ Este ejemplo muestra el valor de la variable `ansible_hostname`.
 
 Este ejemplo muestra un mensaje de advertencia si el espacio en disco está por encima del 80%.
 
-![][image3]
+![ejemplo3](img/ejemplo3.png)
 
 ## **3\. Características clave**
 
